@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>Title</title>
+<link>https://example.org</link>
+<language>en</language>
+<description>Description?</description>
+
+<item>
+<title>Title of the post</title>
+<guid isPermaLink="true">https://example.org</guid>
+<link>https://example.org</link>
+<description><![CDATA[<!--TBegin:https://example.org/image.jpg|left--><a href="https://example.org/image.jpg" rel="something" class="something"><img src="https://example.org/image.jpg" style="float: right;" alt='Alt text' title='Title of image'  /></a><!--TEnd--><p>Description.</p>]]></description>
+<category><![CDATA[Some category]]></category>
+<dc:creator>Author name</dc:creator>
+<pubDate>Mon, 14 Oct 2024 12:34:56 +0000</pubDate>
+</item>
+
+<item>
+<title>Title of the post</title>
+<guid isPermaLink="true">https://example.org</guid>
+<link>https://example.org</link>
+<description><![CDATA[<!--TBegin:https://example.org/image.jpg|left--><a href="https://example.org/image.jpg" rel="something" class="something"><img src="https://example.org/image.jpg" style="float: right;" alt='Alt text' title='Title of image'  /></a><!--TEnd--><p>Description.</p>]]></description>
+<category><![CDATA[Some category]]></category>
+<dc:creator>Author name</dc:creator>
+<pubDate>Mon, 14 Oct 2024 12:34:56 +0000</pubDate>
+</item>
+
+<item>
+<title>Title of the post</title>
+<guid isPermaLink="true">https://example.org</guid>
+<link>https://example.org</link>
+<description><![CDATA[<!--TBegin:https://example.org/image.jpg|left--><a href="https://example.org/image.jpg" rel="something" class="something"><img src="https://example.org/image.jpg" style="float: right;" alt='Alt text' title='Title of image'  /></a><!--TEnd--><p>Description.</p>]]></description>
+<category><![CDATA[Some category]]></category>
+<dc:creator>Author name</dc:creator>
+<pubDate>Mon, 14 Oct 2024 12:34:56 +0000</pubDate>
+</item>
+
+<item>
+<title>Title of the post</title>
+<guid isPermaLink="true">https://example.org</guid>
+<link>https://example.org</link>
+<description><![CDATA[<!--TBegin:https://example.org/image.jpg|left--><a href="https://example.org/image.jpg" rel="something" class="something"><img src="https://example.org/image.jpg" style="float: right;" alt='Alt text' title='Title of image'  /></a><!--TEnd--><p>Description.</p>]]></description>
+<category><![CDATA[Some category]]></category>
+<dc:creator>Author name</dc:creator>
+<pubDate>Mon, 14 Oct 2024 12:34:56 +0000</pubDate>
+</item>
+
+</channel></rss>
